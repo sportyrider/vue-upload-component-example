@@ -1,6 +1,6 @@
 # vue-upload-component-example
 
-Simple end to end (client-server) example with VueJS uploading files using vue-upload-component to NodeJS with Express, Multer.
+Simple end-to-end (client-server) example with VueJS uploading files using vue-upload-component to NodeJS with Express + Multer. 
 
 Installation:
 
