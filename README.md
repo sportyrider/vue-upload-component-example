@@ -3,7 +3,7 @@
 Simple end to end (client-server) example with VueJS uploading files using vue-upload-component to NodeJS with Express, Multer.
 
 Installation:
-    Use package.json and do npm init 
+    Use package.json and do npm install 
     or build from scratch:
     npm init -y 
     mkdir uploads
