@@ -14,11 +14,12 @@ Installation:
         npm install --save multer
         
    Start server:
+   
         node server.js
  
    Clients:
     HTML submit served by Node:  
-        localhost:3000  
+        http://localhost:3000  
         
     Vue + vue-upload-component:   
         open client_vue.html file in the browser
